@@ -35,8 +35,7 @@ My motivations for the Hadron project fall into a few themes:
   compiler engineering as working on Hadron. But with Hadron, it seemed at least plausible that people would consider
   trying the project out. If the project was successful, I think there was a possibility that over time it could have
   become the *de facto* SuperCollider interpreter, ultimately replacing sclang. I'm not saying I expected that outcome,
-  just that I found the *plausibility* of that outcome exciting. For me, the joy of making software is compounded when
-  others use that software.
+  just that I found the *plausibility* of that outcome exciting. Making software gets a lot more fun when it has users.
 
 * **Hubris**: In my defense, it is one of the `three virtues <https://thethreevirtues.com>`_.
 
@@ -86,18 +85,16 @@ any desire to try. Impasse.
 
 SuperCollider Governance
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Languages evolve or they die. It is difficult to predict how language features will interact with each other, so by
-necessity language design is a practice of constant iteration and refinement. The unforeseen consequences of the method
+Languages evolve, or they die. It is difficult to predict how language features will interact with each other, so by
+necessity, language design is a practice of constant iteration and refinement. The unforeseen consequences of the method
 return operator implementation are a great example of this, and in my opinion, the right thing to do here is a breaking
 change.
 
-Breaking changes require the developer to submit an RFC. Speaking only for myself and from my personal experience, I
-have no desire to subject myself to that process. I'll refrain from naming names or theorizing why the situation is how
-it is. If I said some of what users say to developers on RFCs and bug reports in the community to my colleagues at work,
-I would expect disciplinary action from HR. If my employer behaved that way toward me, I would find a new job, and I
-have done so in the past. Why anyone would tolerate that kind of treatment *in their precious free time* is a mystery to
-me, and I know a few talented developers who have left the project because of this toxic abuse. I'm confident it has
-caused harm to the software project.
+Breaking changes require the developer to submit an RFC. I don't have the patience and emotional fortitude to endure the
+slings and arrows of the RFC process. I admire the folks who have the dedication to carry one all the way through, and
+I'm glad the community has a democratic approach to resolving disputes. I think some folks in our community are
+downright mean to each other in disagreement, and it's frankly scared me away from the entire process. Lastly, I think
+a consensus-driven process will likely be too slow and divisive to reform the language effectively.
 
 There is a lengthy discussion on the forum about what the next major iteration of the SuperCollider language might look
 like, with opinions running the gamut from "the software doesn't need improvement" to "tear everything down and start
